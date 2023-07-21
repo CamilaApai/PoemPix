@@ -1,0 +1,72 @@
+[
+  {
+    "user_id": 1,
+    "name": "Alice Smith",
+    "email": "alice@example.com",
+    "age": 25,
+    "location": "Los Angeles"
+  },
+  {
+    "user_id": 2,
+    "name": "Bob Johnson",
+    "email": "bob@example.com",
+    "age": 30,
+    "location": "New York"
+  },
+  {
+    "user_id": 3,
+    "name": "Charlie Brown",
+    "email": "charlie@example.com",
+    "age": 35,
+    "location": "San Francisco"
+  },
+  {
+    "user_id": 4,
+    "name": "David Lee",
+    "email": "david@example.com",
+    "age": 28,
+    "location": "Chicago"
+  },
+  {
+    "user_id": 5,
+    "name": "Emma Wilson",
+    "email": "emma@example.com",
+    "age": 32,
+    "location": "London"
+  },
+  {
+    "user_id": 6,
+    "name": "Frank Brown",
+    "email": "frank@example.com",
+    "age": 27,
+    "location": "Los Angeles"
+  },
+  {
+    "user_id": 7,
+    "name": "Grace Thompson",
+    "email": "grace@example.com",
+    "age": 31,
+    "location": "New York"
+  },
+  {
+    "user_id": 8,
+    "name": "Henry Davis",
+    "email": "henry@example.com",
+    "age": 34,
+    "location": "San Francisco"
+  },
+  {
+    "user_id": 9,
+    "name": "Isabella Johnson",
+    "email": "isabella@example.com",
+    "age": 29,
+    "location": "Chicago"
+  },
+  {
+    "user_id": 10,
+    "name": "Jack Smith",
+    "email": "jack@example.com",
+    "age": 33,
+    "location": "London"
+  }
+]

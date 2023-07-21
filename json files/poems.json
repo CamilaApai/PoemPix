@@ -1,0 +1,123 @@
+[
+  {
+    "poem_id": 1,
+    "title": "The Road Not Taken",
+    "content": "Two roads diverged in a yellow wood...",
+    "author_id": 1,
+    "author": "Alice Smith",
+    "date_created": "2023-07-01",
+    "tags": [
+      "nature",
+      "choices",
+      "life"
+    ]
+  },
+  {
+    "poem_id": 2,
+    "title": "If You Forget Me",
+    "content": "I want you to know one thing...",
+    "author_id": 2,
+    "author": "Bob Johnson",
+    "date_created": "2023-07-02",
+    "tags": [
+      "love",
+      "memories"
+    ]
+  },
+  {
+    "poem_id": 3,
+    "title": "Still I Rise",
+    "content": "You may write me down in history...",
+    "author_id": 3,
+    "author": "Charlie Brown",
+    "date_created": "2023-07-03",
+    "tags": [
+      "resilience",
+      "empowerment"
+    ]
+  },
+  {
+    "poem_id": 4,
+    "title": "The Raven",
+    "content": "Once upon a midnight dreary...",
+    "author_id": 4,
+    "author": "David Lee",
+    "date_created": "2023-07-04",
+    "tags": [
+      "dark",
+      "mystery"
+    ]
+  },
+  {
+    "poem_id": 5,
+    "title": "Phenomenal Woman",
+    "content": "Pretty women wonder where my secret lies...",
+    "author_id": 5,
+    "author": "Emma Wilson",
+    "date_created": "2023-07-05",
+    "tags": [
+      "womanhood",
+      "confidence"
+    ]
+  },
+  {
+    "poem_id": 6,
+    "title": "Annabel Lee",
+    "content": "It was many and many a year ago...",
+    "author_id": 6,
+    "author": "Frank Brown",
+    "date_created": "2023-07-06",
+    "tags": [
+      "love",
+      "death"
+    ]
+  },
+  {
+    "poem_id": 7,
+    "title": "Do Not Go Gentle into That Good Night",
+    "content": "Do not go gentle into that good night...",
+    "author_id": 7,
+    "author": "Grace Thompson",
+    "date_created": "2023-07-07",
+    "tags": [
+      "life",
+      "inspiration"
+    ]
+  },
+  {
+    "poem_id": 8,
+    "title": "The Love Song of J. Alfred Prufrock",
+    "content": "Let us go then, you and I...",
+    "author_id": 8,
+    "author": "Henry Davis",
+    "date_created": "2023-07-08",
+    "tags": [
+      "introspection",
+      "modernism"
+    ]
+  },
+  {
+    "poem_id": 9,
+    "title": "Stopping by Woods on a Snowy Evening",
+    "content": "Whose woods these are I think I know...",
+    "author_id": 9,
+    "author": "Isabella Johnson",
+    "date_created": "2023-07-09",
+    "tags": [
+      "nature",
+      "solitude"
+    ]
+  },
+  {
+    "poem_id": 10,
+    "title": "The Waste Land",
+    "content": "April is the cruellest month...",
+    "author_id": 10,
+    "author": "Jack Smith",
+    "date_created": "2023-07-10",
+    "tags": [
+      "desolation",
+      "modernism"
+    ]
+  }
+]
